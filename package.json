@@ -1,8 +1,7 @@
 {
   "name": "micro-bunyan-request",
-  "version": "1.0.1",
-  "description":
-    "Request, response logger middleware using bunyan for micro framework. Also provides request<>response duration.",
+  "version": "1.0.2",
+  "description": "Request, response logger middleware using bunyan for micro framework. Also provides request<>response duration.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -24,7 +23,6 @@
     "http",
     "duration"
   ],
-  "author":
-    "Maxime Sahroui <maxime.sahroui@gmail.com> (https://maximeshr.github.io)",
+  "author": "Maxime Sahroui <maxime.sahroui@gmail.com> (https://maximeshr.github.io)",
   "license": "MIT"
 }
